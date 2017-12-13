@@ -2,7 +2,7 @@
 
 Allure report has begun gathering anonymous aggregate user
 behaviour analytics and reporting these to Google Analytics. 
-
+ggggg
 ### Why?
 
 Allure report is provided free of charge and we don't have direct
